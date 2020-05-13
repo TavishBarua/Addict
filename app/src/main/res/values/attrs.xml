@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="input_view">
+
+        <!-- any custom attributes -->
+        <attr name="addict_title" format="string" />
+        <attr name="target_title" format="integer"/>
+
+        <attr name="current_counter" format="integer"/>
+        <attr name="target_counter" format="integer"/>
+
+
+
+
+    </declare-styleable>
+
+</resources>
